@@ -1,1 +1,1 @@
-![architecture overview]("./assets/overview.png")
+![architecture overview]("assets/overview.png")
