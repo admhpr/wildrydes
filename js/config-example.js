@@ -5,6 +5,6 @@ window._config = {
     region: ""
   },
   api: {
-    invokeUrl: "https://<invoke-url>"
+    invokeUrl: "https://<invoke-url>/"
   }
 };
